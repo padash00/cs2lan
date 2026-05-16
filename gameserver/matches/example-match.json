@@ -1,0 +1,34 @@
+{
+  "matchid": "example-001",
+  "num_maps": 1,
+  "maplist": ["de_mirage"],
+  "map_sides": ["knife"],
+  "clinch_series": true,
+  "players_per_team": 5,
+  "team1": {
+    "name": "Team Alpha",
+    "tag": "ALPHA",
+    "players": {
+      "76561198000000001": "player1",
+      "76561198000000002": "player2",
+      "76561198000000003": "player3",
+      "76561198000000004": "player4",
+      "76561198000000005": "player5"
+    }
+  },
+  "team2": {
+    "name": "Team Bravo",
+    "tag": "BRAVO",
+    "players": {
+      "76561198000000006": "player6",
+      "76561198000000007": "player7",
+      "76561198000000008": "player8",
+      "76561198000000009": "player9",
+      "76561198000000010": "player10"
+    }
+  },
+  "cvars": {
+    "hostname": "Team Alpha vs Team Bravo",
+    "mp_friendlyfire": "1"
+  }
+}
